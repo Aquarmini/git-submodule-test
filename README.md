@@ -29,3 +29,13 @@
 - [kafka](https://github.com/Aquarmini/kafka-demo-phalcon)
 - [机器学习](https://github.com/Aquarmini/ml-demo-phalcon)
 - [正则匹配](https://github.com/Aquarmini/regex-demo-phalcon)
+
+## GIT子模块使用
+~~~
+git submodule add git@github.com:Aquarmini/git-submodule-test2.git app/biz/SubModule
+然后就能在app/biz/SubModule中直接操作子模块的git
+
+clone主项目后，使用以下初始化子模块
+git submodule init
+git submodule update
+~~~

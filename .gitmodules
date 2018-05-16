@@ -1,0 +1,3 @@
+[submodule "app/biz/SubModule"]
+	path = app/biz/SubModule
+	url = git@github.com:Aquarmini/git-submodule-test2.git

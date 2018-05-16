@@ -16,4 +16,3 @@ package-lock.json
 *.cache
 .scannerwork
 *.lock
-app/biz/SubModule/*
